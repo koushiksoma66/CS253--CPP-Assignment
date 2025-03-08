@@ -1,0 +1,10 @@
+104|Alice Brown|student432|Mathematics
+103|Bob Johnson|student789|Computer Science
+102|Jane Smith|student206|Physics
+101|John Doe|student357|Computer Science
+108|Frank White|student258|Physics
+107|Edward Davis|student147|Mathematics
+106|Diana Miller|student987|Computer Science
+105|Charlie Wilson|student654|Physics
+109|Grace Taylor|student369|Computer Science
+110|Henry Clark|student741|Mathematics 

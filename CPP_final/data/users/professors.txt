@@ -1,0 +1,10 @@
+202|Indranil Saha|prof488|Computer Science
+201|Sandeep Shukla|prof906|Computer Science
+203|Harbola|prof789|Physics
+204|Manindra Agarwal|prof321|Computer Science
+205|Arjit Ganguly|prof654|Mathematics
+206|Nilay Kundu|prof987|Physics
+210|PS Raj|prof852|Mathematics
+208|Harkik Agarwal|prof258|Mathematics
+209|Priyanka Bagde|prof741|Computer Science
+207|Nithin Saxena|prof147|Computer Science

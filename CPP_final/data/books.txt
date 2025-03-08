@@ -1,0 +1,10 @@
+4|The Palace of Illusions|Chitra Banerjee Divakaruni|Doubleday|2008|978-0385515993|1
+3|Malgudi Days|R.K. Narayan|Indian Thought Publications|1943|978-0143039655|1
+2|Gitanjali|Rabindranath Tagore|Macmillan|1910|978-0140449884|1
+1|The Guide|R.K. Narayan|Viking Press|1958|978-0143039648|1
+5|Train to Pakistan|Khushwant Singh|Chatto & Windus|1956|978-0143065883|1
+6|The Inheritance of Loss|Kiran Desai|Grove Press|2006|978-0802142818|1
+10|The God of Small Things|Arundhati Roy|IndiaInk|1997|978-0060977498|1
+9|Midnight's Children|Salman Rushdie|Jonathan Cape|1981|978-0099578512|1
+8|The White Tiger|Aravind Adiga|HarperCollins|2008|978-1416562603|1
+7|A Suitable Boy|Vikram Seth|HarperCollins|1993|978-0060786526|1
